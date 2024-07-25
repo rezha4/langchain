@@ -1,0 +1,19 @@
+{
+  "name": "langchain",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/anthropic": "^0.2.9",
+    "@langchain/community": "^0.2.20",
+    "dotenv": "^16.4.5",
+    "langchain": "^0.2.11"
+  }
+}
